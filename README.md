@@ -5,9 +5,14 @@ The following project manages to analyze the sentiment behind tweets from U.S. a
 # Libraries
 
 import pandas as pd
+
 import numpy as np
+
 import sklearn
+
 import matplotlib.pyplot as plt
+
 import re
+
 import nltk
 
